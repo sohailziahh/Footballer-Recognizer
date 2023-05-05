@@ -18,7 +18,7 @@ import boto3
 from ast import literal_eval
 
 SLACK_CHANNEL_ID = "C04EYUXK4UF"
-BNAME = 'ds-image-to-quiz'
+BNAME = 'football-recognizer'
 def get_slack_client():
     # env_path = Path('.') / '.env'
     # load_dotenv(dotenv_path=env_path)
