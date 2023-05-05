@@ -1,0 +1,288 @@
+harry kane,"{'Total': 5, 'Num_Correct': 4, 'Num_Wrong': 0}"
+lionel messi,"{'Total': 12, 'Num_Correct': 1, 'Num_Wrong': 10}"
+manuel neuer,"{'Total': 7, 'Num_Correct': 6, 'Num_Wrong': 0}"
+kylian mbappe,"{'Total': 7, 'Num_Correct': 5, 'Num_Wrong': 1}"
+mohamed salah,"{'Total': 3, 'Num_Correct': 0, 'Num_Wrong': 2}"
+pedri,"{'Total': 8, 'Num_Correct': 3, 'Num_Wrong': 4}"
+robert lewandowski,"{'Total': 10, 'Num_Correct': 5, 'Num_Wrong': 4}"
+marcus rashford,"{'Total': 5, 'Num_Correct': 0, 'Num_Wrong': 5}"
+erling haaland,"{'Total': 6, 'Num_Correct': 5, 'Num_Wrong': 0}"
+bruno fernandes,"{'Total': 10, 'Num_Correct': 4, 'Num_Wrong': 5}"
+romelu lukaku,"{'Total': 9, 'Num_Correct': 4, 'Num_Wrong': 4}"
+memphis depay,"{'Total': 5, 'Num_Correct': 2, 'Num_Wrong': 2}"
+cristiano ronaldo,"{'Total': 8, 'Num_Correct': 0, 'Num_Wrong': 7}"
+Model,Facenet
+DataSource,TM
+DistanceMetric,cosine
+Accuracy,39/83 -- 0.46987951807228917
+
+harry kane,"{'Total': 5, 'Num_Correct': 2, 'Num_Wrong': 2}"
+lionel messi,"{'Total': 12, 'Num_Correct': 0, 'Num_Wrong': 11}"
+manuel neuer,"{'Total': 7, 'Num_Correct': 5, 'Num_Wrong': 1}"
+kylian mbappe,"{'Total': 7, 'Num_Correct': 5, 'Num_Wrong': 1}"
+mohamed salah,"{'Total': 3, 'Num_Correct': 0, 'Num_Wrong': 2}"
+pedri,"{'Total': 8, 'Num_Correct': 2, 'Num_Wrong': 5}"
+robert lewandowski,"{'Total': 10, 'Num_Correct': 5, 'Num_Wrong': 4}"
+marcus rashford,"{'Total': 5, 'Num_Correct': 0, 'Num_Wrong': 5}"
+erling haaland,"{'Total': 6, 'Num_Correct': 1, 'Num_Wrong': 4}"
+bruno fernandes,"{'Total': 10, 'Num_Correct': 6, 'Num_Wrong': 3}"
+romelu lukaku,"{'Total': 9, 'Num_Correct': 3, 'Num_Wrong': 5}"
+memphis depay,"{'Total': 5, 'Num_Correct': 1, 'Num_Wrong': 3}"
+cristiano ronaldo,"{'Total': 8, 'Num_Correct': 0, 'Num_Wrong': 7}"
+Model,Facenet
+DataSource,TM
+DistanceMetric,euclidean
+Accuracy,30/83 -- 0.3614457831325301
+
+harry kane,"{'Total': 5, 'Num_Correct': 3, 'Num_Wrong': 1}"
+lionel messi,"{'Total': 12, 'Num_Correct': 8, 'Num_Wrong': 3}"
+manuel neuer,"{'Total': 7, 'Num_Correct': 5, 'Num_Wrong': 1}"
+kylian mbappe,"{'Total': 7, 'Num_Correct': 0, 'Num_Wrong': 6}"
+mohamed salah,"{'Total': 3, 'Num_Correct': 0, 'Num_Wrong': 2}"
+pedri,"{'Total': 8, 'Num_Correct': 5, 'Num_Wrong': 2}"
+robert lewandowski,"{'Total': 10, 'Num_Correct': 5, 'Num_Wrong': 4}"
+marcus rashford,"{'Total': 5, 'Num_Correct': 3, 'Num_Wrong': 2}"
+erling haaland,"{'Total': 6, 'Num_Correct': 5, 'Num_Wrong': 0}"
+bruno fernandes,"{'Total': 10, 'Num_Correct': 8, 'Num_Wrong': 1}"
+romelu lukaku,"{'Total': 9, 'Num_Correct': 6, 'Num_Wrong': 2}"
+memphis depay,"{'Total': 5, 'Num_Correct': 3, 'Num_Wrong': 1}"
+cristiano ronaldo,"{'Total': 8, 'Num_Correct': 4, 'Num_Wrong': 3}"
+Model,Facenet
+DataSource,FBREF
+DistanceMetric,cosine
+Accuracy,55/83 -- 0.6626506024096386
+
+harry kane,"{'Total': 5, 'Num_Correct': 2, 'Num_Wrong': 2}"
+lionel messi,"{'Total': 12, 'Num_Correct': 7, 'Num_Wrong': 4}"
+manuel neuer,"{'Total': 7, 'Num_Correct': 4, 'Num_Wrong': 2}"
+kylian mbappe,"{'Total': 7, 'Num_Correct': 0, 'Num_Wrong': 6}"
+mohamed salah,"{'Total': 3, 'Num_Correct': 0, 'Num_Wrong': 2}"
+pedri,"{'Total': 8, 'Num_Correct': 5, 'Num_Wrong': 2}"
+robert lewandowski,"{'Total': 10, 'Num_Correct': 7, 'Num_Wrong': 2}"
+marcus rashford,"{'Total': 5, 'Num_Correct': 2, 'Num_Wrong': 3}"
+erling haaland,"{'Total': 6, 'Num_Correct': 3, 'Num_Wrong': 2}"
+bruno fernandes,"{'Total': 10, 'Num_Correct': 7, 'Num_Wrong': 2}"
+romelu lukaku,"{'Total': 9, 'Num_Correct': 6, 'Num_Wrong': 2}"
+memphis depay,"{'Total': 5, 'Num_Correct': 3, 'Num_Wrong': 1}"
+cristiano ronaldo,"{'Total': 8, 'Num_Correct': 2, 'Num_Wrong': 5}"
+Model,Facenet
+DataSource,FBREF
+DistanceMetric,euclidean
+Accuracy,48/83 -- 0.5783132530120482
+
+harry kane,"{'Total': 5, 'Num_Correct': 2, 'Num_Wrong': 2}"
+lionel messi,"{'Total': 12, 'Num_Correct': 4, 'Num_Wrong': 7}"
+manuel neuer,"{'Total': 7, 'Num_Correct': 4, 'Num_Wrong': 2}"
+kylian mbappe,"{'Total': 7, 'Num_Correct': 0, 'Num_Wrong': 6}"
+mohamed salah,"{'Total': 3, 'Num_Correct': 2, 'Num_Wrong': 0}"
+pedri,"{'Total': 8, 'Num_Correct': 2, 'Num_Wrong': 5}"
+robert lewandowski,"{'Total': 10, 'Num_Correct': 5, 'Num_Wrong': 4}"
+marcus rashford,"{'Total': 5, 'Num_Correct': 2, 'Num_Wrong': 3}"
+erling haaland,"{'Total': 6, 'Num_Correct': 5, 'Num_Wrong': 0}"
+bruno fernandes,"{'Total': 10, 'Num_Correct': 6, 'Num_Wrong': 3}"
+romelu lukaku,"{'Total': 9, 'Num_Correct': 0, 'Num_Wrong': 8}"
+memphis depay,"{'Total': 5, 'Num_Correct': 2, 'Num_Wrong': 2}"
+cristiano ronaldo,"{'Total': 8, 'Num_Correct': 4, 'Num_Wrong': 3}"
+Model,VGG-Face
+DataSource,TM
+DistanceMetric,cosine
+Accuracy,38/83 -- 0.4578313253012048
+
+harry kane,"{'Total': 5, 'Num_Correct': 1, 'Num_Wrong': 3}"
+lionel messi,"{'Total': 12, 'Num_Correct': 3, 'Num_Wrong': 8}"
+manuel neuer,"{'Total': 7, 'Num_Correct': 2, 'Num_Wrong': 4}"
+kylian mbappe,"{'Total': 7, 'Num_Correct': 0, 'Num_Wrong': 6}"
+mohamed salah,"{'Total': 3, 'Num_Correct': 1, 'Num_Wrong': 1}"
+pedri,"{'Total': 8, 'Num_Correct': 1, 'Num_Wrong': 6}"
+robert lewandowski,"{'Total': 10, 'Num_Correct': 5, 'Num_Wrong': 4}"
+marcus rashford,"{'Total': 5, 'Num_Correct': 1, 'Num_Wrong': 4}"
+erling haaland,"{'Total': 6, 'Num_Correct': 5, 'Num_Wrong': 0}"
+bruno fernandes,"{'Total': 10, 'Num_Correct': 6, 'Num_Wrong': 3}"
+romelu lukaku,"{'Total': 9, 'Num_Correct': 0, 'Num_Wrong': 8}"
+memphis depay,"{'Total': 5, 'Num_Correct': 2, 'Num_Wrong': 2}"
+cristiano ronaldo,"{'Total': 8, 'Num_Correct': 3, 'Num_Wrong': 4}"
+Model,VGG-Face
+DataSource,TM
+DistanceMetric,euclidean
+Accuracy,30/83 -- 0.3614457831325301
+
+harry kane,"{'Total': 5, 'Num_Correct': 0, 'Num_Wrong': 4}"
+lionel messi,"{'Total': 12, 'Num_Correct': 2, 'Num_Wrong': 9}"
+manuel neuer,"{'Total': 7, 'Num_Correct': 3, 'Num_Wrong': 3}"
+kylian mbappe,"{'Total': 7, 'Num_Correct': 0, 'Num_Wrong': 6}"
+mohamed salah,"{'Total': 3, 'Num_Correct': 1, 'Num_Wrong': 1}"
+pedri,"{'Total': 8, 'Num_Correct': 3, 'Num_Wrong': 4}"
+robert lewandowski,"{'Total': 10, 'Num_Correct': 7, 'Num_Wrong': 2}"
+marcus rashford,"{'Total': 5, 'Num_Correct': 2, 'Num_Wrong': 3}"
+erling haaland,"{'Total': 6, 'Num_Correct': 5, 'Num_Wrong': 0}"
+bruno fernandes,"{'Total': 10, 'Num_Correct': 1, 'Num_Wrong': 8}"
+romelu lukaku,"{'Total': 9, 'Num_Correct': 0, 'Num_Wrong': 8}"
+memphis depay,"{'Total': 5, 'Num_Correct': 0, 'Num_Wrong': 4}"
+cristiano ronaldo,"{'Total': 8, 'Num_Correct': 3, 'Num_Wrong': 4}"
+Model,VGG-Face
+DataSource,FBREF
+DistanceMetric,cosine
+Accuracy,27/83 -- 0.3253012048192771
+
+harry kane,"{'Total': 5, 'Num_Correct': 0, 'Num_Wrong': 4}"
+lionel messi,"{'Total': 12, 'Num_Correct': 3, 'Num_Wrong': 8}"
+manuel neuer,"{'Total': 7, 'Num_Correct': 3, 'Num_Wrong': 3}"
+kylian mbappe,"{'Total': 7, 'Num_Correct': 0, 'Num_Wrong': 6}"
+mohamed salah,"{'Total': 3, 'Num_Correct': 1, 'Num_Wrong': 1}"
+pedri,"{'Total': 8, 'Num_Correct': 3, 'Num_Wrong': 4}"
+robert lewandowski,"{'Total': 10, 'Num_Correct': 7, 'Num_Wrong': 2}"
+marcus rashford,"{'Total': 5, 'Num_Correct': 2, 'Num_Wrong': 3}"
+erling haaland,"{'Total': 6, 'Num_Correct': 5, 'Num_Wrong': 0}"
+bruno fernandes,"{'Total': 10, 'Num_Correct': 1, 'Num_Wrong': 8}"
+romelu lukaku,"{'Total': 9, 'Num_Correct': 0, 'Num_Wrong': 8}"
+memphis depay,"{'Total': 5, 'Num_Correct': 0, 'Num_Wrong': 4}"
+cristiano ronaldo,"{'Total': 8, 'Num_Correct': 2, 'Num_Wrong': 5}"
+Model,VGG-Face
+DataSource,FBREF
+DistanceMetric,euclidean
+Accuracy,27/83 -- 0.3253012048192771
+
+harry kane,"{'Total': 5, 'Num_Correct': 3, 'Num_Wrong': 1}"
+lionel messi,"{'Total': 12, 'Num_Correct': 5, 'Num_Wrong': 6}"
+manuel neuer,"{'Total': 7, 'Num_Correct': 0, 'Num_Wrong': 6}"
+kylian mbappe,"{'Total': 7, 'Num_Correct': 0, 'Num_Wrong': 6}"
+mohamed salah,"{'Total': 3, 'Num_Correct': 0, 'Num_Wrong': 2}"
+pedri,"{'Total': 8, 'Num_Correct': 2, 'Num_Wrong': 5}"
+robert lewandowski,"{'Total': 10, 'Num_Correct': 3, 'Num_Wrong': 6}"
+marcus rashford,"{'Total': 5, 'Num_Correct': 2, 'Num_Wrong': 3}"
+erling haaland,"{'Total': 6, 'Num_Correct': 4, 'Num_Wrong': 1}"
+bruno fernandes,"{'Total': 10, 'Num_Correct': 1, 'Num_Wrong': 8}"
+romelu lukaku,"{'Total': 9, 'Num_Correct': 1, 'Num_Wrong': 7}"
+memphis depay,"{'Total': 5, 'Num_Correct': 0, 'Num_Wrong': 4}"
+cristiano ronaldo,"{'Total': 8, 'Num_Correct': 4, 'Num_Wrong': 3}"
+Model,ArcFace
+DataSource,TM
+DistanceMetric,cosine
+Accuracy,25/83 -- 0.30120481927710846
+
+harry kane,"{'Total': 5, 'Num_Correct': 2, 'Num_Wrong': 2}"
+lionel messi,"{'Total': 12, 'Num_Correct': 2, 'Num_Wrong': 9}"
+manuel neuer,"{'Total': 7, 'Num_Correct': 0, 'Num_Wrong': 6}"
+kylian mbappe,"{'Total': 7, 'Num_Correct': 0, 'Num_Wrong': 6}"
+mohamed salah,"{'Total': 3, 'Num_Correct': 0, 'Num_Wrong': 2}"
+pedri,"{'Total': 8, 'Num_Correct': 2, 'Num_Wrong': 5}"
+robert lewandowski,"{'Total': 10, 'Num_Correct': 2, 'Num_Wrong': 7}"
+marcus rashford,"{'Total': 5, 'Num_Correct': 2, 'Num_Wrong': 3}"
+erling haaland,"{'Total': 6, 'Num_Correct': 4, 'Num_Wrong': 1}"
+bruno fernandes,"{'Total': 10, 'Num_Correct': 1, 'Num_Wrong': 8}"
+romelu lukaku,"{'Total': 9, 'Num_Correct': 0, 'Num_Wrong': 8}"
+memphis depay,"{'Total': 5, 'Num_Correct': 1, 'Num_Wrong': 3}"
+cristiano ronaldo,"{'Total': 8, 'Num_Correct': 2, 'Num_Wrong': 5}"
+Model,ArcFace
+DataSource,TM
+DistanceMetric,euclidean
+Accuracy,18/83 -- 0.21686746987951808
+
+harry kane,"{'Total': 5, 'Num_Correct': 2, 'Num_Wrong': 2}"
+lionel messi,"{'Total': 12, 'Num_Correct': 2, 'Num_Wrong': 9}"
+manuel neuer,"{'Total': 7, 'Num_Correct': 2, 'Num_Wrong': 4}"
+kylian mbappe,"{'Total': 7, 'Num_Correct': 0, 'Num_Wrong': 6}"
+mohamed salah,"{'Total': 3, 'Num_Correct': 1, 'Num_Wrong': 1}"
+pedri,"{'Total': 8, 'Num_Correct': 2, 'Num_Wrong': 5}"
+robert lewandowski,"{'Total': 10, 'Num_Correct': 5, 'Num_Wrong': 4}"
+marcus rashford,"{'Total': 5, 'Num_Correct': 1, 'Num_Wrong': 4}"
+erling haaland,"{'Total': 6, 'Num_Correct': 3, 'Num_Wrong': 2}"
+bruno fernandes,"{'Total': 10, 'Num_Correct': 0, 'Num_Wrong': 9}"
+romelu lukaku,"{'Total': 9, 'Num_Correct': 1, 'Num_Wrong': 7}"
+memphis depay,"{'Total': 5, 'Num_Correct': 0, 'Num_Wrong': 4}"
+cristiano ronaldo,"{'Total': 8, 'Num_Correct': 2, 'Num_Wrong': 5}"
+Model,ArcFace
+DataSource,FBREF
+DistanceMetric,cosine
+Accuracy,21/83 -- 0.25301204819277107
+
+harry kane,"{'Total': 5, 'Num_Correct': 0, 'Num_Wrong': 4}"
+lionel messi,"{'Total': 12, 'Num_Correct': 6, 'Num_Wrong': 5}"
+manuel neuer,"{'Total': 7, 'Num_Correct': 2, 'Num_Wrong': 4}"
+kylian mbappe,"{'Total': 7, 'Num_Correct': 0, 'Num_Wrong': 6}"
+mohamed salah,"{'Total': 3, 'Num_Correct': 1, 'Num_Wrong': 1}"
+pedri,"{'Total': 8, 'Num_Correct': 4, 'Num_Wrong': 3}"
+robert lewandowski,"{'Total': 10, 'Num_Correct': 5, 'Num_Wrong': 4}"
+marcus rashford,"{'Total': 5, 'Num_Correct': 2, 'Num_Wrong': 3}"
+erling haaland,"{'Total': 6, 'Num_Correct': 1, 'Num_Wrong': 4}"
+bruno fernandes,"{'Total': 10, 'Num_Correct': 0, 'Num_Wrong': 9}"
+romelu lukaku,"{'Total': 9, 'Num_Correct': 1, 'Num_Wrong': 7}"
+memphis depay,"{'Total': 5, 'Num_Correct': 0, 'Num_Wrong': 4}"
+cristiano ronaldo,"{'Total': 8, 'Num_Correct': 0, 'Num_Wrong': 7}"
+Model,ArcFace
+DataSource,FBREF
+DistanceMetric,euclidean
+Accuracy,22/83 -- 0.26506024096385544
+
+harry kane,"{'Total': 5, 'Num_Correct': 3, 'Num_Wrong': 1}"
+lionel messi,"{'Total': 12, 'Num_Correct': 8, 'Num_Wrong': 3}"
+manuel neuer,"{'Total': 7, 'Num_Correct': 5, 'Num_Wrong': 1}"
+kylian mbappe,"{'Total': 7, 'Num_Correct': 6, 'Num_Wrong': 0}"
+mohamed salah,"{'Total': 3, 'Num_Correct': 2, 'Num_Wrong': 0}"
+pedri,"{'Total': 8, 'Num_Correct': 6, 'Num_Wrong': 1}"
+robert lewandowski,"{'Total': 10, 'Num_Correct': 9, 'Num_Wrong': 0}"
+marcus rashford,"{'Total': 5, 'Num_Correct': 4, 'Num_Wrong': 1}"
+erling haaland,"{'Total': 6, 'Num_Correct': 5, 'Num_Wrong': 0}"
+bruno fernandes,"{'Total': 10, 'Num_Correct': 9, 'Num_Wrong': 0}"
+romelu lukaku,"{'Total': 9, 'Num_Correct': 3, 'Num_Wrong': 5}"
+memphis depay,"{'Total': 5, 'Num_Correct': 4, 'Num_Wrong': 0}"
+cristiano ronaldo,"{'Total': 8, 'Num_Correct': 7, 'Num_Wrong': 0}"
+Model,dlib
+DataSource,TM
+DistanceMetric,cosine
+Accuracy,71/83 -- 0.8554216867469879
+
+harry kane,"{'Total': 5, 'Num_Correct': 3, 'Num_Wrong': 1}"
+lionel messi,"{'Total': 12, 'Num_Correct': 8, 'Num_Wrong': 3}"
+manuel neuer,"{'Total': 7, 'Num_Correct': 5, 'Num_Wrong': 1}"
+kylian mbappe,"{'Total': 7, 'Num_Correct': 6, 'Num_Wrong': 0}"
+mohamed salah,"{'Total': 3, 'Num_Correct': 2, 'Num_Wrong': 0}"
+pedri,"{'Total': 8, 'Num_Correct': 6, 'Num_Wrong': 1}"
+robert lewandowski,"{'Total': 10, 'Num_Correct': 9, 'Num_Wrong': 0}"
+marcus rashford,"{'Total': 5, 'Num_Correct': 4, 'Num_Wrong': 1}"
+erling haaland,"{'Total': 6, 'Num_Correct': 5, 'Num_Wrong': 0}"
+bruno fernandes,"{'Total': 10, 'Num_Correct': 9, 'Num_Wrong': 0}"
+romelu lukaku,"{'Total': 9, 'Num_Correct': 3, 'Num_Wrong': 5}"
+memphis depay,"{'Total': 5, 'Num_Correct': 4, 'Num_Wrong': 0}"
+cristiano ronaldo,"{'Total': 8, 'Num_Correct': 7, 'Num_Wrong': 0}"
+Model,dlib
+DataSource,TM
+DistanceMetric,euclidean
+Accuracy,71/83 -- 0.8554216867469879
+
+harry kane,"{'Total': 5, 'Num_Correct': 3, 'Num_Wrong': 1}"
+lionel messi,"{'Total': 12, 'Num_Correct': 8, 'Num_Wrong': 3}"
+manuel neuer,"{'Total': 7, 'Num_Correct': 5, 'Num_Wrong': 1}"
+kylian mbappe,"{'Total': 7, 'Num_Correct': 5, 'Num_Wrong': 1}"
+mohamed salah,"{'Total': 3, 'Num_Correct': 2, 'Num_Wrong': 0}"
+pedri,"{'Total': 8, 'Num_Correct': 6, 'Num_Wrong': 1}"
+robert lewandowski,"{'Total': 10, 'Num_Correct': 9, 'Num_Wrong': 0}"
+marcus rashford,"{'Total': 5, 'Num_Correct': 4, 'Num_Wrong': 1}"
+erling haaland,"{'Total': 6, 'Num_Correct': 5, 'Num_Wrong': 0}"
+bruno fernandes,"{'Total': 10, 'Num_Correct': 9, 'Num_Wrong': 0}"
+romelu lukaku,"{'Total': 9, 'Num_Correct': 8, 'Num_Wrong': 0}"
+memphis depay,"{'Total': 5, 'Num_Correct': 4, 'Num_Wrong': 0}"
+cristiano ronaldo,"{'Total': 8, 'Num_Correct': 7, 'Num_Wrong': 0}"
+Model,dlib
+DataSource,FBREF
+DistanceMetric,cosine
+Accuracy,75/83 -- 0.9036144578313253
+
+harry kane,"{'Total': 5, 'Num_Correct': 3, 'Num_Wrong': 1}"
+lionel messi,"{'Total': 12, 'Num_Correct': 9, 'Num_Wrong': 2}"
+manuel neuer,"{'Total': 7, 'Num_Correct': 5, 'Num_Wrong': 1}"
+kylian mbappe,"{'Total': 7, 'Num_Correct': 5, 'Num_Wrong': 1}"
+mohamed salah,"{'Total': 3, 'Num_Correct': 2, 'Num_Wrong': 0}"
+pedri,"{'Total': 8, 'Num_Correct': 7, 'Num_Wrong': 0}"
+robert lewandowski,"{'Total': 10, 'Num_Correct': 9, 'Num_Wrong': 0}"
+marcus rashford,"{'Total': 5, 'Num_Correct': 4, 'Num_Wrong': 1}"
+erling haaland,"{'Total': 6, 'Num_Correct': 5, 'Num_Wrong': 0}"
+bruno fernandes,"{'Total': 10, 'Num_Correct': 9, 'Num_Wrong': 0}"
+romelu lukaku,"{'Total': 9, 'Num_Correct': 7, 'Num_Wrong': 1}"
+memphis depay,"{'Total': 5, 'Num_Correct': 3, 'Num_Wrong': 1}"
+cristiano ronaldo,"{'Total': 8, 'Num_Correct': 7, 'Num_Wrong': 0}"
+Model,dlib
+DataSource,FBREF
+DistanceMetric,euclidean
+Accuracy,75/83 -- 0.9036144578313253
+

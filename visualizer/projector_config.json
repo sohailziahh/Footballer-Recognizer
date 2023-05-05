@@ -1,0 +1,20 @@
+{
+  "embeddings": [
+    {
+      "tensorName": " FaceNet Embeddings",
+      "tensorShape": [
+        5053,
+        128
+      ],
+      "tensorPath": "mega_mega_embeddings_2.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/sohailziahh/facenetsprites/main/mega_mega_metadata_2.tsv",
+      "sprite": {
+        "imagePath": "mega_mega_sprite_2.png",
+        "singleImageDim": [
+          100,
+          100
+        ]
+      }
+    }
+  ]
+}
